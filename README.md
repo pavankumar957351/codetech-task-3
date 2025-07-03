@@ -30,7 +30,8 @@ Serial.print("Temperature: "); Serial.print(temperatureC); Serial.println(" °C"
 
 delay(1000); }
 
-OUTPUT : 
+OUTPUT :
+
 ![image](https://github.com/user-attachments/assets/bdc034d4-8e02-4ff2-8061-839a447007c3)
 
 ![image](https://github.com/user-attachments/assets/07314b25-12f5-4319-b80c-27638313f86f)
